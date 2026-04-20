@@ -3,33 +3,6 @@
 
 ---
 
-## What SISO is
-
-SISO is a specification of a kind of thing reality may be. It proposes
-that the substrate of the physical world is a graph through which events
-flow and are transformed by pure functions, and that the familiar
-structural features of physical reality are consequences of this
-substrate's topology and dynamics.
-
-**A SISO implementation is an instantiation of the ontology, not a
-simulation of something outside itself.** Reality, if it is SISO, is the
-canonical instance. An implementation built on a computer is another
-instance, differing from reality only in the substrate it runs on — the
-amount of energy available to drive it and the rate at which its events
-propagate. The ontology does not distinguish between reality's instance
-and ours. An instantiation that correctly realizes the three primitives
-and follows the rules is the same kind of thing reality is, produced at
-a smaller scale and slower rate.
-
-This framing matters for how results are interpreted. A simulation that
-reproduces observed structure is evidence the simulation is useful. An
-instantiation that produces observed structure is evidence the ontology
-is the ontology reality uses. A SISO implementation that produces magic
-numbers is not modeling nuclei successfully; it is producing the same
-structural feature nuclei produce, from the same substrate, at a
-different scale.
-
-Everything below follows from this stance.
 
 ---
 
